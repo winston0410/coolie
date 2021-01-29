@@ -1,0 +1,8 @@
+{
+  "name": "coolie",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/winston0410/coolie.git",
+  "author": "Hugo Sum",
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "benchmarks",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"benchmark": "node ./worker/index.spec.js"
+	},
+	"devDependencies": {
+		"benchmark": "^2.1.4"
+	}
+}
